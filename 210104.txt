@@ -14,7 +14,3 @@ remote - 원격에 있는 저장소
 branch - 가짓가지
 
 InteliiJ 에 대한 도구 활용법
-
-Java- Hello World
-
-Build 가 되는 과정을 러프 살펴봤어요
